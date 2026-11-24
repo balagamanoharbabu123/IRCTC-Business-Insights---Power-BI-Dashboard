@@ -62,6 +62,8 @@ The report has 2 pages.
 
 <img width="1920" height="1008" alt="Screenshot 2026-11-24 185249" src="https://github.com/user-attachments/assets/c3a02fd3-22f8-46c6-ae0c-4fa17775e1bd" />
 
+<img width="1920" height="1008" alt="Screenshot 2026-11-24 185339" src="https://github.com/user-attachments/assets/31171629-7a88-459d-b78a-56908866cf72" />
+
 
 ![Dashboard](images/dashboard.png)
 
