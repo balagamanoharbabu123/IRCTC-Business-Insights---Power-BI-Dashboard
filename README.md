@@ -86,4 +86,4 @@ Balaga Manohar Babu
 B.Tech CSE (2022-2026), Hyderabad
 Skills: Python, MySQL, Advanced Excel, Power BI
 
-LinkedIn: (add your link)
+LinkedIn: (www.linkedin.com/in/manoharbabu-balaga-)
