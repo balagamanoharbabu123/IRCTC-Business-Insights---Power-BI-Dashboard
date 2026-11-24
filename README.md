@@ -14,9 +14,7 @@ IRCTC has a lot of booking data, but it is hard to understand just by looking at
 
 I made this project to practice Power BI, DAX and dashboard design for my Data Analyst journey.
 
-## Dataset
 
-Kaggle dataset: https://www.kaggle.com/datasets/anushka29/irctc-dataset
 
 In my data model I used the main data table (`irctc_data`) and a separate `Date table` for month and day names.
 
@@ -62,7 +60,8 @@ The report has 2 pages.
 
 ## Screenshots
 
-(add your screenshots here)
+<img width="1920" height="1008" alt="Screenshot 2026-11-24 185249" src="https://github.com/user-attachments/assets/c3a02fd3-22f8-46c6-ae0c-4fa17775e1bd" />
+
 
 ![Dashboard](images/dashboard.png)
 
